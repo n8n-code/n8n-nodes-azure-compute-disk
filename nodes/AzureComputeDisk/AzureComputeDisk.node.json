@@ -1,0 +1,20 @@
+{
+  "node": "N8nDevAzureComputeDisk",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": [
+    "Development"
+  ],
+  "resources": {
+    "primaryDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-azure-compute-disk"
+      }
+    ],
+    "credentialDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-azure-compute-disk?tab=readme-ov-file#credentials"
+      }
+    ]
+  }
+}
